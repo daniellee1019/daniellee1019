@@ -13,21 +13,19 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=daniellee1019&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniellee1019&layout=compact&theme=radical)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=daniellee1019&theme=radical)](https://git.io/streak-stats)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=daniellee1019&bg_color=000000&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=daniellee1019&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ---
 
 ### 🛠️ 기술 스택
 
 - **게임 엔진**: ![Unity](https://img.shields.io/badge/-Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black)
-- **언어**: ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+- **언어**: ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 - **기타**: ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
-
----
-
-### ✨ 나의 프로젝트
-
-- **[프로젝트 이름 1](링크)**: 프로젝트 설명 한 줄
-- **[프로젝트 이름 2](링크)**: 프로젝트 설명 한 줄
-- **[프로젝트 이름 3](링크)**: 프로젝트 설명 한 줄
 
 ---
 
